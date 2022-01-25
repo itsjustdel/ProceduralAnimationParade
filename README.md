@@ -1,3 +1,6 @@
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/Powered%20by-C%23-blue.svg"/></a>
+<a href="https://unity.com/"><img src="https://img.shields.io/badge/Powered%20by-Unity-lightgrey.svg"/></a>
+
 # Procedural Character and Animation
 Completely algorithmic approach to character creation and animation. Creations will traverse the assault course placing their feet appropriately. The demo will continue infinitely, making new beings until stopped. 
 
